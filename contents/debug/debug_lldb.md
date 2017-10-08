@@ -1,5 +1,13 @@
 # lldb debug
 
+### call
+调试断点时，执行call命令可以变量的值，不用编写调试代码模拟各个状态，动态地调试程序分支。
+
+```
+call (a = 2)
+```
+
+
 ### MORE
 [The LLDB Debugger](http://lldb.llvm.org/tutorial.html)
 [About LLDB and Xcode](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/Introduction.html)
