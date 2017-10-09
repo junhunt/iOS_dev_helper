@@ -21,10 +21,10 @@ Command Alt Shift Enter, 打开 Version editor 版本控制编辑器
 Command Shift Y, 显示/隐藏调试区  
 Command Shift J, 将导航栏定位到当前打开的文件  
 
-Command 1~8, 跳转到导航区的不同位置  
-Command Alt 1~6, 在不同检测器之间跳转  
-Command Control Alt 1~4, 在不同库之间跳转  
-Control 4~6, 在 Jump bar 的不同标签页的跳转  
+Command 1\~8, 跳转到导航区的不同位置  
+Command Alt 1\~6, 在不同检测器之间跳转  
+Command Control Alt 1\~4, 在不同库之间跳转  
+Control 4\~6, 在 Jump bar 的不同标签页的跳转  
 
 Command Control Up/Down, 接口和实现(.h .m)文件切换  
 Command Control Left/Right, 文件浏览历史跳转  
