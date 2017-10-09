@@ -7,7 +7,7 @@
 Breakpoint navigator -> + -> Exception Breakpoint...，遇到错误程序会自动定位到栈底的信息。
 
 ### Symbolic Breakpoint
-Breakpoint navigator -> + -> Symbolic Breakpoint... ->. 
+Breakpoint navigator -> + -> Symbolic Breakpoint... ->.
 设置 Symbol，可设置函数或指定类的函数，如 viewDidLoad，ViewController.viewDidLoad，
 当函数被调用时会触发断点。  
 
