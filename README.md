@@ -18,4 +18,6 @@ iOS 开发帮助手册
 #### TODO
 Crash的日志、测试工程、以及强大牛逼哄哄的第三方调试库
 #### REFERENCE
-[XCode调试技巧](https://segmentfault.com/a/1190000002941622)
+[XCode调试技巧](https://segmentfault.com/a/1190000002941622)  
+[Moots](https://github.com/huangboju/Moots)  
+[TimLiu-iOS iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)  
