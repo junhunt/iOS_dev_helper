@@ -47,7 +47,7 @@ Control-Delete, 往前删除一个词 word
 ## 文档内搜索
 Command Shift O, Open Quickly 快速打开  
 
-Command F, 搜索  
+Command F, 搜索  
 Command Shift F, 全局搜索  
 Command Alt F, 替换搜索  
 Command Shift Alt F, 全局替换搜索  
