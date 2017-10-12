@@ -3,6 +3,7 @@ iOS 开发帮助手册
 
 ## TODO
 - 同一份代码可能由于证书、渠道、UI的不同，会建立多个Target分别进行打包。  
+- swizzling
 
 ## Utils
 [Xcode shortcuts快捷键](contents/xcode_shortcuts.md)  

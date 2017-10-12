@@ -29,6 +29,7 @@ The Swift (and Objective-C) testing framework.  Quick is a behavior-driven devel
 [用Swift语言做App开发之单元测试](http://www.cnblogs.com/cdutedu/p/4297868.html)  
 [iOS 单元测试和UI测试教程](http://www.cocoachina.com/ios/20170718/19930.html)  
 [没有单元测试，何谈重构](http://www.cocoachina.com/ios/20161123/18163.html)  
+[如何在 Swift 中测试 UIAlertController](http://www.swift.gg/2015/10/12/how-to-test-uialertcontroller-in-swift/)  
 [iOS 单元测试之XCTest详解](http://blog.csdn.net/hello_hwc/article/details/46671053)  
 [UI Texting inXcode](https://developer.apple.com/videos/play/wwdc2015/406/)  
 [About Testing with Xcode](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)  
