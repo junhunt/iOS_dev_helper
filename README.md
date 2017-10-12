@@ -11,14 +11,15 @@ iOS 开发帮助手册
 [多个 targets 的使用](contents/targets_manage.md)  
 
 ## Debug 调试篇
-[Breakpoint](contents/debug_breakpoint.md)
-
-[lldb](contents/debug_lldb.md)
-
+[Breakpoint](contents/debug_breakpoint.md)  
+[lldb](contents/debug_lldb.md)  
 [Instruments](contents/debug_instruments.md)
+
+[Unit Test](contents/unit_test.md)
 
 #### TODO
 Crash的日志、测试工程、以及强大牛逼哄哄的第三方调试库
+
 #### REFERENCE
 [XCode调试技巧](https://segmentfault.com/a/1190000002941622)  
 [Moots](https://github.com/huangboju/Moots)  
