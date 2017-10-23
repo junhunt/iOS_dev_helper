@@ -9,6 +9,7 @@ iOS 开发帮助手册
 [Xcode shortcuts快捷键](contents/xcode_shortcuts.md)  
 [CocoaPods](contents/cocoapods.md)  
 [多个 targets 的使用](contents/targets_manage.md)  
+[UIStackView](contents/uistackview.md) 
 
 ## Debug 调试篇
 [Breakpoint](contents/debug_breakpoint.md)  

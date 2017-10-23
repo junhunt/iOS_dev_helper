@@ -4,6 +4,10 @@
 
 ```
 sudo gem install cocoapods -n /usr/local/bin
+
+OR
+
+brew install cocoapods
 ```
 
 - 指定源和版本  

@@ -1,12 +1,5 @@
 # UIStackView
 
-> A streamlined interface for laying out a collection of views in either a column or a row.
-
-For all distributions except the fillEqually distribution, the stack view uses each arranged view’s intrinsicContentSize property when calculating its size along the stack’s axis. fillEqually resizes all the arranged views so they are the same size, filling the stack view along its axis. If possible, the stack view stretches all the arranged views to match the view with the longest intrinsic size along the stack’s axis.  
-
-For all alignments except the fill alignment, the stack view uses each arranged view’s intrinsicContentSize property when calculating its size perpendicular to the stack’s axis. fill resizes all the arranged views so that they fill the stack view perpendicularly to its axis. If possible, the stack view stretches all the arranged views to match the view with the largest intrinsic size perpendicular to the stack’s axis.
-
-
 ```
 class ViewController: UIViewController {
     var stackView = UIStackView()
@@ -61,3 +54,4 @@ class ViewController: UIViewController {
 
 ## REFERENCE
 [iOS9 UIStackView 简介](http://swift.gg/2016/03/31/ios9-uistackview-guide-swift/)
+[UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
