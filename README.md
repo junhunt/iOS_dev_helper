@@ -11,6 +11,8 @@ iOS 开发帮助手册
 [多个 targets 的使用](contents/targets_manage.md)  
 [UIStackView](contents/uistackview.md)  
 [UIStoryboard](contents/uistoryboard.md)   
+[Auto Layout](contents/autolayout.md)  
+[上线 App Store 所需信息](contents/appstore.md)  
 
 ## Debug 调试篇
 [Breakpoint](contents/debug_breakpoint.md)  
