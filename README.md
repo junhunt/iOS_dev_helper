@@ -14,6 +14,7 @@ iOS 开发帮助手册
 [UIStoryboard](contents/uistoryboard.md)   
 [Auto Layout](contents/autolayout.md)  
 [上线 App Store 所需信息](contents/appstore.md)  
+[runtime](contents/runtime.md)  
 
 ## Debug 调试篇
 [breakpoint](contents/debug_breakpoint.md)  
